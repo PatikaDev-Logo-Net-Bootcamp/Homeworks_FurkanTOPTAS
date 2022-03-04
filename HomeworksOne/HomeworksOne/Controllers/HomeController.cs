@@ -33,5 +33,32 @@ namespace HomeworksOne.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Login(LoginViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                //Success True > 
+                return SuccessTrue();
+            }
+            else
+            {
+                //Success False > 
+                return SuccessFalse();
+            }
+        }
+        public IActionResult SuccessTrue()
+        {
+            return Ok(new ResponseModel { Success = true, Error = "Null", Data = "Giriş İşlemi Başarılı" });
+        }
+        public IActionResult SuccessFalse()
+        {
+            return BadRequest(new ResponseModel { Success = false, Error = "Hatalı Giriş", Data = "Null" });
+        }
     }
 }
