@@ -31,6 +31,7 @@ namespace HomeworkTwo
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
+                c.OperationFilter<OperationFilterClass>();
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HomeworkTwo", Version = "v1" });
             });
         }
