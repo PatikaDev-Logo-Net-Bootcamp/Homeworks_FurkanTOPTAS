@@ -1,3 +1,4 @@
+using HomeworkTwo.Middlewares;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -49,6 +50,8 @@ namespace HomeworkTwo
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseAppVersionControlMiddleware();
 
             app.UseEndpoints(endpoints =>
             {
