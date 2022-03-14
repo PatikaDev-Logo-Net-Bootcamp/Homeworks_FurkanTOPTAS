@@ -26,6 +26,13 @@ namespace HomeworkTwo.Controllers
         {
             return Ok();
         }
+        [HttpDelete]
+        [ApiExplorerSettings(IgnoreApi = true)]
+        [Route("Hidden")]
+        public IActionResult Delete()
+        {
+            return Ok();
+        }
 
 
     }
