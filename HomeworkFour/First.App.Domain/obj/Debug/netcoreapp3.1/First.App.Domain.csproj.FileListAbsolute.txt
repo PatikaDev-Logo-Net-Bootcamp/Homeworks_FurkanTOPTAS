@@ -1,0 +1,20 @@
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb

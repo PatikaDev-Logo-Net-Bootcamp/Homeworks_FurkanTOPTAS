@@ -1,0 +1,30 @@
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CopyComplete
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.deps.json
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.AssemblyReference.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfoInputs.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CoreCompileInputs.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CopyComplete
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb

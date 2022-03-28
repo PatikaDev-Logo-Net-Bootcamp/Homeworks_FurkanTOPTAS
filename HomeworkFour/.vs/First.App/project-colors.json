@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31c7f127-4abe-4b30-aadd-9a2fbb0443dd": {
+      "ProjectGuid": "31c7f127-4abe-4b30-aadd-9a2fbb0443dd",
+      "DisplayName": "First.API",
+      "ColorIndex": 0
+    },
+    "0ab06e39-136d-4217-82cf-e34a291f1fa0": {
+      "ProjectGuid": "0ab06e39-136d-4217-82cf-e34a291f1fa0",
+      "DisplayName": "First.App.Core",
+      "ColorIndex": 1
+    },
+    "f6f4f696-db3c-4dc4-bb87-2b86717082dd": {
+      "ProjectGuid": "f6f4f696-db3c-4dc4-bb87-2b86717082dd",
+      "DisplayName": "First.App",
+      "ColorIndex": 2
+    },
+    "5e2038f6-5fc8-4959-b728-5d768b72ae7a": {
+      "ProjectGuid": "5e2038f6-5fc8-4959-b728-5d768b72ae7a",
+      "DisplayName": "First.App.Test",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

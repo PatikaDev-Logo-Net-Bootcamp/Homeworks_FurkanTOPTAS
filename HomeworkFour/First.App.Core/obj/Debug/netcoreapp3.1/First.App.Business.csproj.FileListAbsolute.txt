@@ -1,0 +1,34 @@
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CopyComplete
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.deps.json
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.AssemblyReference.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.AssemblyInfoInputs.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.AssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CoreCompileInputs.cache
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.csproj.CopyComplete
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.dll
+D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Core\obj\Debug\netcoreapp3.1\First.App.Business.pdb

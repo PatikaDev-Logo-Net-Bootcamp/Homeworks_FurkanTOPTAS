@@ -1,0 +1,12 @@
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\net5.0\First.App.Core.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\net5.0\First.App.Core.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\net5.0\ref\First.App.Core.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\bin\Debug\net5.0\First.App.Core.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\ref\First.App.Core.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Core\obj\Debug\net5.0\First.App.Core.pdb

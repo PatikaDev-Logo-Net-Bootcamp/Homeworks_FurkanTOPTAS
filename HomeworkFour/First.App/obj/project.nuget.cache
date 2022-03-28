@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhnZNSMJZZFbI/hMhwmqfvWQ3Nphdb1Sqa+6PuKtHTnzRcbA3+0BQAII5WgrTCScJK8jYAaINYkDfaCgMY+SmA==",
+  "success": true,
+  "projectFilePath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App\\First.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\topta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\topta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\topta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\topta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
