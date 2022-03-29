@@ -14,24 +14,27 @@ namespace First.App.Business.Concretes
     public class JwtService : IJwtService
     {
         private readonly IConfiguration configuration;
-
-        public JwtService(IConfiguration configuration)
+        private readonly IUserService userService;
+        public JwtService(IConfiguration configuration, IUserService userService)
         {
             this.configuration=configuration;
+            this.userService=userService;
         }
 
         /// <summary>
         /// Users Repositoryi yazıp bu dataları veritabanından da çekebilirsiniz.
         /// </summary>
-        Dictionary<string, string> users = new Dictionary<string, string>
-        {
-            { "user1","password1"},
-            { "user2","password2"},
-            { "user3","password3"},
-        };
+        //Dictionary<string, string> users = new Dictionary<string, string>
+        //{
+        //    { "user1","password1"},
+        //    { "user2","password2"},
+        //    { "user3","password3"},
+        //}; 
+
         public TokenDto Authenticate(UserDto user)
         {
-            if (!users.Any(x => x.Key == user.Name && x.Value == user.Password))
+            var users = userService.GetAllUser();
+            if (!users.Any(x => x.Username == user.Name && x.Password == user.Password))
             {
                 return null;
             }
