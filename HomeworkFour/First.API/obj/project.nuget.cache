@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MCkPNadUD+x0HlzSu7R1rsLHQLYEIuYViT36hQU7Rg4HGMe8RakQhNNwR+diAaZB8/IPH5xwNHGtXehjijFWnw==",
+  "dgSpecHash": "Twl0EKO7Fihwv3zY18Qglre5uIlaqtFdxgrzeZDlCv6F5sIL1DUMPUpwlX6KNdsq9fX59PjPxWSBc7iymz4BQA==",
   "success": true,
-  "projectFilePath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.API\\First.API.csproj",
+  "projectFilePath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.API\\First.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\topta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.23\\microsoft.aspnetcore.authentication.jwtbearer.3.1.23.nupkg.sha512",
@@ -106,11 +106,7 @@
     "C:\\Users\\topta\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\topta\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

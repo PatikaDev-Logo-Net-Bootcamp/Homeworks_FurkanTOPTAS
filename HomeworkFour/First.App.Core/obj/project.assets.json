@@ -5762,11 +5762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Core\\First.App.Business.csproj",
+      "projectUniqueName": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Core\\First.App.Business.csproj",
       "projectName": "First.App.Business",
-      "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Core\\First.App.Business.csproj",
+      "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Core\\First.App.Business.csproj",
       "packagesPath": "C:\\Users\\topta\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Core\\obj\\",
+      "outputPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\topta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5783,11 +5783,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
-              "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
+            "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+              "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
             },
-            "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-              "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+            "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj": {
+              "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj"
             }
           }
         }
@@ -5811,20 +5811,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

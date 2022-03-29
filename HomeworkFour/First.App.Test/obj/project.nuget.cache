@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msYo6fcIa+GqYkkZBAHlC3ibzzAlPV18tgmBaHSghLNtM3OLhKtyOg44vVdGBk1+V/KCLtVEbLCZWZPbWo/fMg==",
+  "dgSpecHash": "uW1wq4uexcqGAxu5UsskQh5isDeQrBPGWLgSocWGzsXMpfoKwAtLtSE8aTqG0/nxjoYbUSKTmlNaYmcy6vNrBQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Test\\First.App.Console.csproj",
+  "projectFilePath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Test\\First.App.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\topta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -97,11 +97,7 @@
     "C:\\Users\\topta\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\topta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\topta\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App\\First.App.csproj",
+      "projectUniqueName": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App\\First.App.csproj",
       "projectName": "First.App",
-      "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App\\First.App.csproj",
+      "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App\\First.App.csproj",
       "packagesPath": "C:\\Users\\topta\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App\\obj\\",
+      "outputPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\topta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-              "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+            "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj": {
+              "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj"
             }
           }
         }
@@ -78,24 +78,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

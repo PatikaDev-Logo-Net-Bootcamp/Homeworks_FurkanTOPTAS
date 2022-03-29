@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+      "projectUniqueName": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj",
       "projectName": "First.App.Domain",
-      "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+      "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj",
       "packagesPath": "C:\\Users\\topta\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\obj\\",
+      "outputPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\topta\\AppData\\Roaming\\NuGet\\NuGet.Config",

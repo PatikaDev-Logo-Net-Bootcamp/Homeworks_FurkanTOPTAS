@@ -18,3 +18,13 @@ D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcore
 D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
 D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
 D:\PROJELER\LOGO Bootcamp\First.App\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFour\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb

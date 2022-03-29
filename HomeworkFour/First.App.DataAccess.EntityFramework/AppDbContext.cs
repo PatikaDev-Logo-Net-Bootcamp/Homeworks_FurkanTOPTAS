@@ -10,12 +10,14 @@ namespace First.App.DataAccess.EntityFramework
         {
 
         }
+        public DbSet<User> Users { get; set; } //For User JWT
         public DbSet<Company> Companies { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfiguration(new CompanyConfiguration());
+            modelBuilder.ApplyConfiguration(new UserConfiguration());
         }
 
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {}
+    "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {}
   },
   "projects": {
-    "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+    "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectUniqueName": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
         "projectName": "First.App.DataAccess.EntityFramework",
-        "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\topta\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
+        "outputPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\topta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
-                "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+    "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectUniqueName": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj",
         "projectName": "First.App.Domain",
-        "projectPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\First.App.Domain.csproj",
         "packagesPath": "C:\\Users\\topta\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.Domain\\obj\\",
+        "outputPath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\topta\\AppData\\Roaming\\NuGet\\NuGet.Config",

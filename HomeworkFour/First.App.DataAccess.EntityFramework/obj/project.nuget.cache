@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M6Y7isoGfYd5i08uqcjdVRsBzzHCJaBOLFSp7sTAf9+P5YgiNMtXVLKoEDv1xD30SmEkPN2rpKen2iGZMlOxlQ==",
+  "dgSpecHash": "3UtACd25pXN1OcJZAGp/xO2FdjGsc/JNtKvrYrkI9WeAcdTZO1paTMRCtUuurBgvLtq/Y6od77L/qHBu+WZ4TQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJELER\\LOGO Bootcamp\\First.App\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+  "projectFilePath": "D:\\Github Repos\\Homeworks_FurkanTOPTAS\\HomeworkFour\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\topta\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\topta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
