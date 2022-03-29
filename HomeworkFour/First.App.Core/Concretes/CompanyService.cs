@@ -44,6 +44,11 @@ namespace First.App.Business.Concretes
         public void UpdateCompany(Company company)
         {
             var exitCompany = repository.Get().FirstOrDefault(x => x.Id == company.Id);
+
+            //Bu kısım baya kokuyor lütfen bu kısma önerilerinizi ekleyebilirsiniz.
+            // Default değer olduğu zaman SQL e eklememesi kontrolü yapılıyor normalde
+            // fakat sürem yetersiz olduğu için bu kısmı araştıramadım. 
+
             if (exitCompany != null)
             {
                 exitCompany.Description = company.Description;
