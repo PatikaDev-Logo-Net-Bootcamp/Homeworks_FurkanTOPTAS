@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samet\\Desktop\\First.App\\First.App.Test\\First.App.Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samet\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj",
+        "projectName": "First.App.Business",
+        "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj",
+        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+                "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj"
+              },
+              "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+        "projectName": "First.App.DataAccess.EntityFramework.Repository",
+        "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\First.App.DataAccess.EntityFramework.Repository.csproj",
+        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+                "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "projectName": "First.App.DataAccess.EntityFramework",
+        "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\First.App.DataAccess.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.DataAccess.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+                "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "projectName": "First.App.Domain",
+        "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\First.App.Domain.csproj",
+        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samet\\Desktop\\First.App\\First.App.Test\\First.App.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Test\\First.App.Console.csproj",
+        "projectName": "First.App.Console",
+        "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Test\\First.App.Console.csproj",
+        "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\samet\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj": {
+                "projectPath": "C:\\Users\\samet\\Desktop\\First.App\\First.App.Core\\First.App.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

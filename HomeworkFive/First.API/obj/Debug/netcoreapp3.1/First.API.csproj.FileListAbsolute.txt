@@ -1,0 +1,304 @@
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.exe
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.deps.json
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.json
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.dev.json
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Business.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\staticwebassets\First.API.StaticWebAssets.Manifest.cache
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.RazorTargetAssemblyInfo.cache
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CopyComplete
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.dll
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.genruntimeconfig.cache
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\skayikci\source\repos\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.exe
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.deps.json
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.json
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.dev.json
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Business.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\samet\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfo.cs
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\staticwebassets\First.API.StaticWebAssets.Manifest.cache
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.RazorTargetAssemblyInfo.cache
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CopyComplete
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.dll
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.pdb
+C:\Users\samet\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.genruntimeconfig.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.exe
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.deps.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.dev.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.API.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Business.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.AssemblyReference.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfoInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\staticwebassets\First.API.StaticWebAssets.Manifest.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.RazorTargetAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CopyComplete
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.API\obj\Debug\netcoreapp3.1\First.API.genruntimeconfig.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.API.exe
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.API.deps.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.API.runtimeconfig.dev.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.API.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.API.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.Business.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.Business.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.AssemblyReference.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfoInputs.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.AssemblyInfo.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CoreCompileInputs.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\staticwebassets\First.API.StaticWebAssets.Manifest.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.RazorTargetAssemblyInfo.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.csproj.CopyComplete
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.API\obj\Debug\netcoreapp3.1\First.API.genruntimeconfig.cache

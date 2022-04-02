@@ -1,0 +1,156 @@
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.exe
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.json
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.dev.json
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.dll
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.pdb
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Views.dll
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Views.pdb
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\staticwebassets\First.App.StaticWebAssets.Manifest.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.input.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.output.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorCoreGenerate.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.Views.pdb
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.dll
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.pdb
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.genruntimeconfig.cache
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CopyComplete
+C:\Users\skayikci\source\repos\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sample.cshtml.g.cs
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.exe
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.deps.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.dev.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Views.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Views.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.AssemblyReference.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfoInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\staticwebassets\First.App.StaticWebAssets.Manifest.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.input.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.output.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorCoreGenerate.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sample.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.Views.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CopyComplete
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.genruntimeconfig.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.exe
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.deps.json
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.json
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.dev.json
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.dll
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.pdb
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Views.dll
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Views.pdb
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.AssemblyReference.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfoInputs.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CoreCompileInputs.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\staticwebassets\First.App.StaticWebAssets.Manifest.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.input.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.output.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorCoreGenerate.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sample.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cache
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.Views.pdb
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CopyComplete
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.dll
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.pdb
+D:\PROJELER\LOGO Bootcamp\HOMEWORKFIVE\First.App\First.App\First.App\obj\Debug\netcoreapp3.1\First.App.genruntimeconfig.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.exe
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.deps.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.runtimeconfig.dev.json
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.Views.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.Views.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.AssemblyReference.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfoInputs.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.AssemblyInfo.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CoreCompileInputs.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.RazorAssemblyInfo.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\staticwebassets\First.App.StaticWebAssets.Manifest.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.input.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.TagHelpers.output.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.RazorCoreGenerate.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sample.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cache
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.RazorTargetAssemblyInfo.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.Views.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.csproj.CopyComplete
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.dll
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.pdb
+D:\Github Repos\Homeworks_FurkanTOPTAS\HomeworkFive\First.App\obj\Debug\netcoreapp3.1\First.App.genruntimeconfig.cache

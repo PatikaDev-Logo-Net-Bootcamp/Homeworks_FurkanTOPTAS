@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-GetDataBacgroundService-ED79E203-1859-4919-A7F8-59EFAEDA7EDD</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\First.App.Core\First.App.Business.csproj" />
+    <ProjectReference Include="..\First.App.Domain\First.App.Domain.csproj" />
+  </ItemGroup>
+</Project>
