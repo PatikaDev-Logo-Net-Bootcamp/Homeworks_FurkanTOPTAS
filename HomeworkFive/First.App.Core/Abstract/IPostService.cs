@@ -9,5 +9,6 @@ namespace First.App.Business.Abstract
     {
         List<Post> GetAllPost();
         void AddPost(Post post);
+        
     }
 }
