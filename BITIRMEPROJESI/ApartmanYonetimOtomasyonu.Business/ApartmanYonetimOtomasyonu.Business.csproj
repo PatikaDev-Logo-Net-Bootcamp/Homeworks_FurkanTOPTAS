@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository\ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.csproj" />
+    <ProjectReference Include="..\ApartmanYonetimOtomasyonu.Domain\ApartmanYonetimOtomasyonu.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
