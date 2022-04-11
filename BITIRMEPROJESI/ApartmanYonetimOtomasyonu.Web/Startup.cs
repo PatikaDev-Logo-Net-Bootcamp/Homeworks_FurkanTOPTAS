@@ -41,13 +41,11 @@ namespace ApartmanYonetimOtomasyonu.Web
                 .AddDefaultUI()
                 .AddDefaultTokenProviders();
             services.AddControllersWithViews();
-            //***************************************************************
-            services.AddControllersWithViews();
-            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DBConnection")));
-
+            //**************************************************************************      
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
             services.AddTransient<IBuildingService, BuildingService>();
+            services.AddTransient<IFlatService, FlatService>();
             
         }
 
