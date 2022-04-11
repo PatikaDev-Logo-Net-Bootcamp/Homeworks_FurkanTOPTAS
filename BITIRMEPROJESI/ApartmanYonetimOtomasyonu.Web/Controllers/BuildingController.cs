@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.Web.Controllers
 {
+    //[AuthorizeByRole(Roles = "Admin")]
     public class BuildingController : Controller
     {
         private readonly IBuildingService buildingService;
