@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Concretes
 {
-    public class Repository<T> : IRepository<T> where T : BaseEntity
+    public class Repository<T> : IRepository<T> where T : class
     {
         public readonly IUnitOfWork unitOfWork;
         public Repository(IUnitOfWork unitOfWork)
