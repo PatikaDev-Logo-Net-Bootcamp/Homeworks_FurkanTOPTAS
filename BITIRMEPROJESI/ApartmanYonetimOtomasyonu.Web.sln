@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Web", "ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Web.csproj", "{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Domain", "ApartmanYonetimOtomasyonu.Domain\ApartmanYonetimOtomasyonu.Domain.csproj", "{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository", "ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository\ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.csproj", "{749C1873-4E69-4A54-A195-AA89304416E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.EntityFramework", "ApartmanYonetimOtomasyonu.EntityFramework\ApartmanYonetimOtomasyonu.EntityFramework.csproj", "{4CB0F2CB-5347-4B78-863C-17948FA36C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Business", "ApartmanYonetimOtomasyonu.Business\ApartmanYonetimOtomasyonu.Business.csproj", "{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749C1873-4E69-4A54-A195-AA89304416E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749C1873-4E69-4A54-A195-AA89304416E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749C1873-4E69-4A54-A195-AA89304416E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749C1873-4E69-4A54-A195-AA89304416E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB0F2CB-5347-4B78-863C-17948FA36C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB0F2CB-5347-4B78-863C-17948FA36C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB0F2CB-5347-4B78-863C-17948FA36C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB0F2CB-5347-4B78-863C-17948FA36C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F87DA2A2-A5FD-4304-A43B-67E74452B7F2}
+	EndGlobalSection
+EndGlobal
