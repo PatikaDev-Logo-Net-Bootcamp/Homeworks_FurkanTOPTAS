@@ -1,0 +1,15 @@
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.deps.json
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.pdb
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.csproj.AssemblyReference.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.AssemblyInfoInputs.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.AssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.csproj.CoreCompileInputs.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.csproj.CopyComplete
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\refint\ApartmanYonetimOtomasyonu.EntityFramework.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.EntityFramework.pdb
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.EntityFramework\obj\Debug\net5.0\ref\ApartmanYonetimOtomasyonu.EntityFramework.dll
