@@ -1,0 +1,15 @@
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.deps.json
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.runtimeconfig.json
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.runtimeconfig.dev.json
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.csproj.AssemblyReference.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.AssemblyInfoInputs.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.AssemblyInfo.cs
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.csproj.CoreCompileInputs.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\refint\ApartmanYonetimOtomasyonu.Domain.dll
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.pdb
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ApartmanYonetimOtomasyonu.Domain.genruntimeconfig.cache
+D:\PROJELER\LOGO Bootcamp\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Domain\obj\Debug\net5.0\ref\ApartmanYonetimOtomasyonu.Domain.dll
