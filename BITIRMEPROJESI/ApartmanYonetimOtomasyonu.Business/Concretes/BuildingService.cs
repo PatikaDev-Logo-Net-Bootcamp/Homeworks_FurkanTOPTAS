@@ -49,7 +49,7 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
             if (exitBuilding != null)
             {
                 exitBuilding.BuildingName = !string.IsNullOrEmpty(building.BuildingName) ? building.BuildingName.ToUpper() : exitBuilding.BuildingName;
-                exitBuilding.TotalFloor = !string.IsNullOrEmpty(building.TotalFloor) ? building.TotalFloor.ToUpper() : exitBuilding.TotalFloor;
+                exitBuilding.TotalFloor = !string.IsNullOrEmpty(building.TotalFloor.ToString()) ? building.TotalFloor : exitBuilding.TotalFloor;
                 exitBuilding.TotalFlat = !string.IsNullOrEmpty(building.TotalFlat.ToString()) ? building.TotalFlat : exitBuilding.TotalFlat;
                 repository.Update(exitBuilding);
                 unitOfWork.Commit();

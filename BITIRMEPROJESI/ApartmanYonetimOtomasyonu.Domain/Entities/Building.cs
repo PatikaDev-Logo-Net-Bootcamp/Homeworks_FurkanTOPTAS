@@ -9,7 +9,7 @@ namespace ApartmanYonetimOtomasyonu.Domain.Entities
     public class Building : BaseEntity
     { 
         public string BuildingName { get; set; }
-        public string TotalFloor { get; set; }
+        public int TotalFloor { get; set; }
         public int TotalFlat { get; set; }
         public List<Flat> Flats { get; set; }
     }
