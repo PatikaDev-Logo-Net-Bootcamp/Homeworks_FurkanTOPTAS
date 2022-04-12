@@ -9,6 +9,7 @@ namespace ApartmanYonetimOtomasyonu.Business.DTOs
     public class BuildingDto
     {
         public string BuildingName { get; set; }
+        public string TotalFloor { get; set; }
         public byte TotalFlat { get; set; }
     }
 }
