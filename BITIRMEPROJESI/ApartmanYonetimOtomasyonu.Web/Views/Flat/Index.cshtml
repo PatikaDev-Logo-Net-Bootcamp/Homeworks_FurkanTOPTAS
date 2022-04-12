@@ -1,0 +1,57 @@
+﻿@using ApartmanYonetimOtomasyonu.Business.DTOs
+@model List<FlatDto>
+
+<div class="container mb-5 mt-5">
+    <h3>Yeni Daire Ekle</h3>
+    <a class="btn btn-success btn-sm" asp-controller="Flat" asp-action="AddFlat">
+        Daire Ekle
+    </a>
+</div>
+
+<table id="datatable" style="width:100%" class="table table-hover table-striped">
+    <thead class="thead-info">
+    <tr>
+        <th scope="col">Blok</th>
+        <th scope="col">Daire Numarası</th>
+         <th scope="col">Kat Sayısı</th>
+        <th scope="col">Kullanıcı Adı</th>
+        <th scope="col">Daire Tipi</th>
+        <th scope="col">Boşmu Dolumu</th>
+
+        <th>
+
+        </th>
+        <th>
+                
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var flat in Model)
+    {
+        <tr>
+            <td>@flat.BuildingName</td>
+            <td>@flat.FlatNo</td>
+            <td>@flat.Floor</td>
+            <td>@flat.FirstName</td>
+            <td>@flat.TypeOfFlat</td>
+            <td>
+                    @if (flat.IsEmpty)
+                    {
+                        <span class="badge badge-success">Boş</span>
+                    }
+                    else
+                    {
+                        <span class="badge badge-danger">Dolu</span>
+                    }
+            </td>         
+            <td>
+                <a asp-controller="Flat" asp-action="UpdateFlat" asp-route-id="@flat.Id" class="btn btn-primary">Düzenle</a>
+            </td>
+            <td>
+                <a asp-controller="Flat" asp-action="DeleteFlat" asp-route-id="@flat.Id" class="btn btn-danger">Sil</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

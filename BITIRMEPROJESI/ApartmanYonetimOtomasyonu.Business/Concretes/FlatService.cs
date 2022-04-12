@@ -1,19 +1,23 @@
 ﻿using ApartmanYonetimOtomasyonu.Business.Abstract;
+using ApartmanYonetimOtomasyonu.Business.DTOs;
 using ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.Business.Concretes
 {
     public class FlatService : IFlatService
     {
         private readonly IRepository<Flat> repository;
+        private readonly IFlatRepository flatRepository;
         private readonly IUnitOfWork unitOfWork;
 
-        public FlatService(IRepository<Flat> repository, IUnitOfWork unitOfWork)
+        public FlatService(IRepository<Flat> repository, IFlatRepository flatRepository, IUnitOfWork unitOfWork)
         {
             this.repository = repository;
+            this.flatRepository = flatRepository;
             this.unitOfWork = unitOfWork;
         }
 
@@ -58,5 +62,25 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
                 unitOfWork.Commit();
             }
         }
+        
+        public async Task<List<FlatDto>> GetAllFlatsByRelations()
+        {
+            var flats = await flatRepository.GetAllFlatsByRelationsAsync();
+            var flatDto = flats.Select(f => new FlatDto()
+            {
+                Id = f.Id,
+                FlatNo = f.FlatNo,
+                Floor = f.Floor,
+                IsEmpty = f.IsEmpty,
+                RoomSize = f.RoomSize,
+                SaloonSize = f.SaloonSize,
+                BuildingName = f.Building.BuildingName,
+                FirstName = f.User.FirstName,
+            }).ToList();
+            
+            return flatDto;
+        }
+
+
     }
 }

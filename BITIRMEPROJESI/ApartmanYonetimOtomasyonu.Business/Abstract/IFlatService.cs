@@ -1,4 +1,5 @@
-﻿using ApartmanYonetimOtomasyonu.Domain.Entities;
+﻿using ApartmanYonetimOtomasyonu.Business.DTOs;
+using ApartmanYonetimOtomasyonu.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,9 @@ namespace ApartmanYonetimOtomasyonu.Business.Abstract
         void Add(Flat flat);
         void Update(Flat flat);
         void Delete(Flat flat);
+        
+        Task<List<FlatDto>> GetAllFlatsByRelations();
+        
+        
     }
 }

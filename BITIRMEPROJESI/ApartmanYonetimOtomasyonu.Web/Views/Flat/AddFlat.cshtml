@@ -1,0 +1,56 @@
+﻿@using ApartmanYonetimOtomasyonu.Business.DTOs
+@model FlatCreateDto
+
+<form asp-controller="Flat" asp-action="AddFlat" class="was-validated">
+    <div class="mb-3">
+        <label asp-for="RoomSize">Oda Sayısı</label>
+        <input type="text" class="form-control" asp-for="RoomSize" required />
+        <span asp-validation-for="RoomSize" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="SaloonSize">Salon Sayısı</label>
+        <input type="text" class="form-control" asp-for="SaloonSize" required />
+        <span asp-validation-for="SaloonSize" class="text-danger"></span>
+    </div>    
+    <div class="mb-3">
+        <label asp-for="BuildingId">Blok</label>
+        <select asp-for="BuildingId" class="form-control" required
+                asp-items="@(new SelectList(Model.Buildings, "Id", "BuildingName"))">
+            <option>Lütfen birini seçiniz</option>
+        </select>
+        <span asp-validation-for="BuildingId" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="UserId">Kullanıcı</label>
+        <select asp-for="UserId" class="form-control" required
+                asp-items="@(new SelectList(Model.Users, "Id", "UserName"))">
+            <option value=0>Lütfen birini seçiniz</option>
+        </select>
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Floor">Kat Sayısı</label>
+        <select asp-for="Floor" class="form-control" required>
+            <option>Lütfen birini seçiniz</option>
+            @for (int i = 1; i <= Model.Buildings.Max(x => x.TotalFloor); i++)
+            {
+                
+                 <option value="@i">@i</option>
+            }
+        </select>
+        <span asp-validation-for="Floor" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="FlatNo">Daire Sayısı</label>
+        <select asp-for="FlatNo" class="form-control" required>
+            <option>Lütfen birini seçiniz</option>
+            @for (int i = 1; i <= Model.Buildings.Max(x => x.TotalFlat); i++)
+            {
+                
+                 <option value="@i">@i</option>
+            }
+        </select>
+        <span asp-validation-for="FlatNo" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>
