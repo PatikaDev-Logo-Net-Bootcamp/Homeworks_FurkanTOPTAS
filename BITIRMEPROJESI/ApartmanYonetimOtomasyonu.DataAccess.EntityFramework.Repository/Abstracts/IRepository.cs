@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts
 {
-    public interface IRepository<T> where T :class
+    public interface IRepository<T> where T : BaseEntity
     {
         IQueryable<T> Get();
         void Add(T entity);
