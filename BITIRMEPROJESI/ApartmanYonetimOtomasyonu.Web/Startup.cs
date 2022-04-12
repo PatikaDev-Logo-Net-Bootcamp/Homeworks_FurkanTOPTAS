@@ -46,7 +46,8 @@ namespace ApartmanYonetimOtomasyonu.Web
             services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
             services.AddTransient<IBuildingService, BuildingService>();
             services.AddTransient<IFlatService, FlatService>();
-            
+            services.AddScoped<IFlatRepository, FlatRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
