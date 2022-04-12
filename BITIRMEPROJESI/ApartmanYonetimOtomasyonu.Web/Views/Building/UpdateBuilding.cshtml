@@ -7,7 +7,12 @@
         <span asp-validation-for="BuildingName" class="text-danger"></span>
     </div>
     <div class="mb-3">
-        <label asp-for="TotalFlat" class="form-label">Toplam Kat Sayısı</label>
+        <label asp-for="TotalFloor" class="form-label">Toplam Kat Sayısı</label>
+        <input type="text" class="form-control" asp-for="TotalFloor" required="">
+        <span asp-validation-for="TotalFloor" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="TotalFlat" class="form-label">Toplam Daire Sayısı</label>
         <input type="text" class="form-control" asp-for="TotalFlat" required="">
         <span asp-validation-for="TotalFlat" class="text-danger"></span>
     </div>

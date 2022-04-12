@@ -37,6 +37,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
             buildingService.Add(new Building
             {
                 BuildingName = building.BuildingName.ToUpper(),
+                TotalFloor = building.TotalFloor,
                 TotalFlat = building.TotalFlat,
             });
             return RedirectToAction("Get");  

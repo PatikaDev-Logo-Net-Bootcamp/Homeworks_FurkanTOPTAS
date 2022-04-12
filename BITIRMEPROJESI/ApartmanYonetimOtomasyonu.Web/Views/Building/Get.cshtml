@@ -15,6 +15,7 @@
         <th>Id</th>
         <th>Blok İsmi</th>
         <th>Kat Sayısı</th>
+        <th>Daire Sayısı</th>
         <th></th>
         <th></th>
     </tr>
@@ -25,6 +26,7 @@
         <tr>
             <td>@building.Id</td>
             <td>@building.BuildingName</td>
+            <td>@building.TotalFloor</td>
             <td>@building.TotalFlat</td>
             <td>
                 <a class="btn btn-primary btn-sm" asp-controller="Building" asp-action="UpdateBuilding" 
