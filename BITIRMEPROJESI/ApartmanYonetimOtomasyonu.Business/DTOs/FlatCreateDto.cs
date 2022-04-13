@@ -9,6 +9,7 @@ namespace ApartmanYonetimOtomasyonu.Business.DTOs
 {
     public class FlatCreateDto
     {
+        public int Id { get; set; }
         public int FlatNo { get; set; } //Apartman Numarası
         public bool IsEmpty { get; set; } //Dolu mu Boş mu ?
         public int Floor { get; set; } //Bulunduğu Kat 
