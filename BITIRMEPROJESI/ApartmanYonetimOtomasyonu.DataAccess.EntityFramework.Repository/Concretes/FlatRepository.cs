@@ -21,6 +21,7 @@ namespace ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Concre
                .Include(x => x.User)
                .Include(x => x.Building)
                .OrderBy(x => x.FlatNo)
+               .Where(x => x.IsDeleted == false)
                .ToListAsync();
         }
     }
