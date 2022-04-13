@@ -14,29 +14,49 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
         private readonly IRepository<ExpenseType> repository;
         private readonly IUnitOfWork unitOfWork;
 
+        public ExpenseTypeService(IRepository<ExpenseType> repository, IUnitOfWork unitOfWork)
+        {
+            this.repository = repository;
+            this.unitOfWork = unitOfWork;
+        }
+
         public void Add(ExpenseType expenseType)
         {
-            throw new NotImplementedException();
+            repository.Add(expenseType);
+            unitOfWork.Commit();
         }
 
         public void Delete(ExpenseType expenseType)
         {
-            throw new NotImplementedException();
+            var exitExpenseType = repository.Get().FirstOrDefault(x => x.Id == expenseType.Id);
+            if (exitExpenseType != null)
+            {
+                exitExpenseType.IsDeleted = true;
+                repository.Update(exitExpenseType);
+                unitOfWork.Commit();
+            }
         }
 
         public List<ExpenseType> GetAll()
         {
-            throw new NotImplementedException();
+            return repository.Get().ToList();
         }
 
         public ExpenseType GetById(int Id)
         {
-            throw new NotImplementedException();
+            return repository.Get().FirstOrDefault(x => x.Id == Id);
         }
 
         public void Update(ExpenseType expenseType)
         {
-            throw new NotImplementedException();
+            var exitExpenseType = repository.Get().FirstOrDefault(x => x.Id == expenseType.Id);
+            if (exitExpenseType != null)
+            {
+                exitExpenseType.ExpenseTypeName = !string.IsNullOrEmpty(expenseType.ExpenseTypeName) ? expenseType.ExpenseTypeName.ToUpper() : exitExpenseType.ExpenseTypeName;
+                
+                repository.Update(exitExpenseType);
+                unitOfWork.Commit();
+            }
         }
     }
    
