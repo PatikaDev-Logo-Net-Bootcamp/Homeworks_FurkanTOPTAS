@@ -43,9 +43,9 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
             return repository.Get().ToList();
         }
 
-        public Flat GetById(int Id) // Daire Lisreleme ID ye göre
+        public Flat GetById(int id) // Daire Lisreleme ID ye göre
         {
-            return repository.Get().FirstOrDefault(x => x.Id == Id);
+            return repository.Get().FirstOrDefault(x => x.Id == id);
         }
 
         public void Update(Flat flat) // Daire Güncelleme
@@ -53,6 +53,9 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
             var exitFlat = repository.Get().FirstOrDefault(x => x.Id == flat.Id);
             if (exitFlat != null)
             {
+                exitFlat.UserId = !string.IsNullOrEmpty(flat.UserId.ToString()) ? flat.UserId : exitFlat.UserId;
+                exitFlat.BuildingId = !string.IsNullOrEmpty(flat.BuildingId.ToString()) ? flat.BuildingId : exitFlat.BuildingId;
+                exitFlat.IsEmpty = !string.IsNullOrEmpty(flat.IsEmpty.ToString()) ? flat.IsEmpty : exitFlat.IsEmpty;                
                 exitFlat.FlatNo = !string.IsNullOrEmpty(flat.FlatNo.ToString()) ? flat.FlatNo : exitFlat.FlatNo;
                 exitFlat.Floor = !string.IsNullOrEmpty(flat.Floor.ToString()) ? flat.Floor : exitFlat.Floor;
                 exitFlat.RoomSize = !string.IsNullOrEmpty(flat.RoomSize.ToString()) ? flat.RoomSize : exitFlat.RoomSize;
