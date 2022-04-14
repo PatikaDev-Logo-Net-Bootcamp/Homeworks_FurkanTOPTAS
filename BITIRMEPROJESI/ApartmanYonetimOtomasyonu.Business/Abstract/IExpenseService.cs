@@ -1,4 +1,5 @@
-﻿using ApartmanYonetimOtomasyonu.Domain.Entities;
+﻿using ApartmanYonetimOtomasyonu.Business.DTOs;
+using ApartmanYonetimOtomasyonu.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,8 @@ namespace ApartmanYonetimOtomasyonu.Business.Abstract
         Expense GetById(int Id);
         void Add(Expense expense);
         void Update(Expense expense);
-        void Delete(Expense expense);        
+        void Delete(Expense expense);
+
+        Task<List<ExpenseDto>> GetAllExpenseByRelations();        
     }
 }
