@@ -14,7 +14,7 @@ namespace ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Concre
         public FlatRepository(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
-
+        
         public async Task<List<Flat>> GetAllFlatsByRelationsAsync()
         {
             return await unitOfWork.Context.Flats
