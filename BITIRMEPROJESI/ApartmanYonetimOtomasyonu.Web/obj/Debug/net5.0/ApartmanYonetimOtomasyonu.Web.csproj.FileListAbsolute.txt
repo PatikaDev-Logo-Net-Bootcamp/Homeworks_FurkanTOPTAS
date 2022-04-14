@@ -416,3 +416,10 @@ D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\ref\ApartmanYonetimOtomasyonu.Web.dll
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Flat\AddFlat.cshtml.g.cs
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Flat\Index.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\ExpenseType\AddExpenseType.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\ExpenseType\Index.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\ExpenseType\UpdateExpenseType.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Flat\UpdateFlat.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Expense\Index.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Expense\AddExpense.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Expense\UpdateExpense.cshtml.g.cs
