@@ -45,10 +45,11 @@ namespace ApartmanYonetimOtomasyonu.Web
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped<IFlatRepository, FlatRepository>();
+            services.AddScoped<IExpenseRepository, ExpenseRepository>();
             services.AddTransient<IBuildingService, BuildingService>();
             services.AddTransient<IFlatService, FlatService>();
             services.AddTransient<IExpenseTypeService, ExpenseTypeService>();
-            //services.AddTransient<IExpenseService, ExpenseService>();
+            services.AddTransient<IExpenseService, ExpenseService>();
 
 
         }
