@@ -79,6 +79,7 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
                 SaloonSize = f.SaloonSize,
                 BuildingName = f.Building.BuildingName,
                 FirstName = f.User.FirstName,
+                TypeOfUser = f.User.TypeOfUser
             }).ToList();
             
             return flatDto;

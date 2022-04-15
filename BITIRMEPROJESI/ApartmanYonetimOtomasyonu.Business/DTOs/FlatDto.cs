@@ -19,6 +19,8 @@ namespace ApartmanYonetimOtomasyonu.Business.DTOs
             get { return RoomSize.ToString() + "+" + SaloonSize.ToString(); } // Oda ve Salon Sayısı
         }
         public string FirstName { get; set; }
+        public string TypeOfUser { get; set; }
+        
         public string BuildingName { get; set; }
     }
 }
