@@ -14,6 +14,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
+using System.Net.Mail;
 
 namespace ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account
 {
@@ -47,6 +48,31 @@ namespace ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account
         public class InputModel
         {
             [Required]
+            [StringLength(20, ErrorMessage = "Max 20 characters")]
+            [Display(Name = "First Name")]
+            public string FirstName { get; set; }
+            [Required]
+            [StringLength(20, ErrorMessage = "Max 20 characters")]
+            [Display(Name = "Last Name")]
+            public string LastName { get; set; }
+
+            [Required]
+            [StringLength(11, ErrorMessage = "Max 11 characters")]
+            [Display(Name = "TC No")]
+            public string TCNo { get; set; }
+            [Required]
+            [StringLength(10, ErrorMessage = "Max 10 characters")]
+            [Display(Name = "Car License Plate")]
+            public string CarLicensePlate { get; set; }
+
+            [Required]
+            [StringLength(20, ErrorMessage = "Max 20 characters")]            
+            [Display(Name = "Type Of User")]
+            public string TypeOfUser { get; set; }            
+
+
+
+            [Required]
             [EmailAddress]
             [Display(Name = "Email")]
             public string Email { get; set; }
@@ -68,14 +94,35 @@ namespace ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
-
+        public bool IsValidEmail(string emailAdress)
+        {
+            try
+            {
+                MailAddress mail = new MailAddress(emailAdress);
+                return true;
+            }
+            catch (FormatException)
+            {
+                return false;
+            }
+        }
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
         {
             returnUrl ??= Url.Content("~/");
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = new User { UserName = Input.Email, Email = Input.Email };
+                var userName = Input.Email;
+                if (IsValidEmail(Input.Email))
+                {
+                    var user1 = await _userManager.FindByEmailAsync(Input.Email);
+                    if (user1 != null)
+                    {
+                        userName = user1.UserName;
+                    }
+                };
+                var user = new User { FirstName = Input.FirstName, LastName = Input.LastName, TCNo = Input.TCNo, 
+                    CarLicensePlate = Input.CarLicensePlate, UserName = userName, Email = Input.Email, TypeOfUser = Input.TypeOfUser };
                 var result = await _userManager.CreateAsync(user, Input.Password);
                 if (result.Succeeded)
                 {
