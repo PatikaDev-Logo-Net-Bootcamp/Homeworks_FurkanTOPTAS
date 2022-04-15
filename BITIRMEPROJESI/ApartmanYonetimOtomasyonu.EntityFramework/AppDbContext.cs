@@ -1,4 +1,5 @@
 ﻿using ApartmanYonetimOtomasyonu.Domain.Entities;
+using ApartmanYonetimOtomasyonu.EntityFramework.Configurations;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -57,6 +58,9 @@ namespace ApartmanYonetimOtomasyonu.EntityFramework
             {
                 entity.ToTable("UserTokens");
             });
+            
+            builder.ApplyConfiguration(new BuildingConfiguration());
+            builder.ApplyConfiguration(new FlatConfiguration());
         }
     }
 }

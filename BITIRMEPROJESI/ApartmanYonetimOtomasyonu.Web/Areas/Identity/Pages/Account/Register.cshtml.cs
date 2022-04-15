@@ -68,8 +68,12 @@ namespace ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account
             [Required]
             [StringLength(20, ErrorMessage = "Max 20 characters")]            
             [Display(Name = "Type Of User")]
-            public string TypeOfUser { get; set; }            
-
+            public string TypeOfUser { get; set; }
+            
+            [Required]
+            [StringLength(13, ErrorMessage = "Max 13 characters")]
+            [Display(Name = "PhoneNumber")]
+            public string PhoneNumber { get; set; }
 
 
             [Required]
