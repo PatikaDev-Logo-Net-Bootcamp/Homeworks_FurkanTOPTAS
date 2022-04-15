@@ -1,26 +1,30 @@
-﻿using ApartmanYonetimOtomasyonu.Domain.Entities;
+﻿using ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts;
+using ApartmanYonetimOtomasyonu.Domain.Entities;
 using ApartmanYonetimOtomasyonu.Web.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mail;
 using System.Threading.Tasks;
+using static ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account.ExternalLoginModel;
 
 namespace ApartmanYonetimOtomasyonu.Web.Controllers
 {
     public class UserController : Controller
     {
         private readonly UserManager<User> userManager;
-        private readonly RoleManager<IdentityRole> roleManager;
+        //private readonly RoleManager<IdentityRole> roleManager;
+        
 
-        public UserController(UserManager<User> userManager, RoleManager<IdentityRole> roleManager)
+        public UserController(UserManager<User> userManager)
         {
             this.userManager = userManager;
-            this.roleManager = roleManager;
+            
         }
-
-        public async Task<IActionResult> Index()
+        [HttpGet]
+        public async Task<IActionResult> Index() // Kullanıcıları Getir
         {
             var users = await userManager.Users.ToListAsync();
             var userRoleViewModel = new List<UserRolesViewModel>();
@@ -32,6 +36,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                     Email = user.Email,
                     FirstName = user.FirstName,
                     LastName = user.LastName,
+                    PhoneNumber = user.PhoneNumber,
                     Roles = await GetUserRoles(user)
                 };
                 userRoleViewModel.Add(thisViewModel);
@@ -43,5 +48,70 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         {
             return new List<string>(await userManager.GetRolesAsync(user));
         }
+
+
+
+        [HttpGet]
+        public IActionResult UpdateUser(string id)
+        {
+            var user = userManager.Users.FirstOrDefault(x => x.Id == id);
+                        
+            var userUpdate = new User
+            {
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email,
+                Id = user.Id,
+                UserName = user.UserName,
+                PhoneNumber = user.PhoneNumber,
+                TCNo = user.TCNo,
+                CarLicensePlate = user.CarLicensePlate,
+                TypeOfUser = user.TypeOfUser
+            };
+            return View(userUpdate);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> UpdateUser(User user)
+        {
+            User userUpdate = await userManager.FindByIdAsync(user.Id);
+            MailAddress mail = new MailAddress(user.Email);
+            
+            if (!ModelState.IsValid)
+            {
+                return View(user);
+            }
+            
+            userUpdate.FirstName = user.FirstName;
+            userUpdate.LastName = user.LastName;
+            userUpdate.Email = user.Email;
+            userUpdate.UserName = mail.User;
+            userUpdate.PhoneNumber = user.PhoneNumber;
+            userUpdate.TCNo = user.TCNo;
+            userUpdate.CarLicensePlate = user.CarLicensePlate;
+            userUpdate.TypeOfUser = user.TypeOfUser;
+
+            var result= await userManager.UpdateAsync(userUpdate);
+            if (result.Succeeded)
+            {
+              return RedirectToAction("Index");
+            }
+            return View();
+        }
+        public async Task<IActionResult> DeleteUser(string id) //Apartman Silme İşlemleri
+        {
+            var userDelete = await userManager.FindByIdAsync(id);
+            var result = await userManager.DeleteAsync(userDelete);
+            if (result.Succeeded)
+            {
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+
+
+
+
     }
 }

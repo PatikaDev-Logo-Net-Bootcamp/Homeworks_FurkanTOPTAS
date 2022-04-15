@@ -2,17 +2,25 @@
 @model List<ApartmanYonetimOtomasyonu.Web.Models.UserRolesViewModel>
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
-    
+
 }
-<h1>Role Manager</h1>
+
+<div class="container mb-5 mt-5">
+    <h3>Yeni Kullanıcı Ekle</h3>
+    <a class="btn btn-success btn-sm" asp-area="Identity" asp-page="/Account/Register">
+        Kullanıcı Ekle
+    </a>
+</div>
+
 <table class="table table-striped">
     <thead>
         <tr>
             <th>First Name</th>
             <th>Last Name</th>
             <th>Email</th>
+            <th>PhoneNumber</th>
             <th>Roles</th>
-            <th>Action</th>            
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -22,11 +30,18 @@
                 <td>@user.FirstName</td>
                 <td>@user.LastName</td>
                 <td>@user.Email</td>
+                <td>@user.PhoneNumber</td>
                 <td>@string.Join(" , ", user.Roles.ToList())</td>
                 <td>
-                    <a class="btn btn-primary" asp-controller="UserRoles" asp-action="Manage" asp-route-userId="@user.UserId">Manage</a>
+                    <a class="btn btn-primary" asp-controller="User" asp-action="UpdateUser" asp-route-id="@user.UserId">Güncelle</a>
+                </td>
+                <td>
+                    <a class="btn btn-danger btn-sm" asp-controller="User" asp-action="DeleteUser"
+                   asp-route-id="@user.UserId">
+                        Sil
+                    </a>
                 </td>
             </tr>
-        }  
+        }
     </tbody>
 </table>
