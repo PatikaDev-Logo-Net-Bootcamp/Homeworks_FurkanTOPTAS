@@ -1,7 +1,8 @@
-﻿@using ApartmanYonetimOtomasyonu.Domain.Entities
-@model User
+﻿@using ApartmanYonetimOtomasyonu.Business.DTOs
+@using ApartmanYonetimOtomasyonu.Domain.Entities
+@model UserCreateDto
 
-<form asp-controller="User" asp-action="UpdateUser" class="was-validated">
+<form asp-controller="User" asp-action="AddUser" class="was-validated">
 
     <div class="mb-3">
         <label asp-for="FirstName">First Name</label>
@@ -32,7 +33,7 @@
         </select>
         <span asp-validation-for="TypeOfUser" class="text-danger"></span>
     </div>
-        <div class="mb-3">
+    <div class="mb-3">
         <label asp-for="PhoneNumber">Phone Number</label>
         <input type="text" class="form-control" asp-for="PhoneNumber" />
         <span asp-validation-for="PhoneNumber" class="text-danger"></span>
@@ -42,7 +43,11 @@
         <input type="text" class="form-control" asp-for="Email" />
         <span asp-validation-for="Email" class="text-danger"></span>
     </div>
+    <div class="mb-3">
+        <label asp-for="Password">Password</label>
+        <input type="password" class="form-control" asp-for="Password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
 
-    
-    <button type="submit" class="btn btn-primary">Güncelle</button>
+    <button type="submit" class="btn btn-primary">Ekle</button>
 </form>

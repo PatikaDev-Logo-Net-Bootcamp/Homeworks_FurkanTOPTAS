@@ -1,4 +1,5 @@
-﻿using ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts;
+﻿using ApartmanYonetimOtomasyonu.Business.DTOs;
+using ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
 using ApartmanYonetimOtomasyonu.Web.Models;
 using Microsoft.AspNetCore.Identity;
@@ -107,6 +108,41 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 return RedirectToAction("Index");
             }
             return View();
+        }
+
+
+        [HttpGet]
+        public IActionResult AddUser()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> AddUser(UserCreateDto user)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(user);
+            }
+            MailAddress mail = new MailAddress(user.Email);
+            var userAdd = new User
+            {
+                UserName = mail.User,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                TCNo = user.TCNo,
+                CarLicensePlate = user.CarLicensePlate,
+                TypeOfUser = user.TypeOfUser,
+                Email = user.Email,               
+                PhoneNumber = user.PhoneNumber
+            };
+            var result = await userManager.CreateAsync(userAdd, user.Password);
+            if (result.Succeeded)
+            {
+                await userManager.AddToRoleAsync(userAdd, EntityFramework.Enums.Roles.BasicUser.ToString());
+                return RedirectToAction("Index");
+            }
+            return View();
+
         }
 
 
