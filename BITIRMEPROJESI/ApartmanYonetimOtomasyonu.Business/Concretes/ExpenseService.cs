@@ -14,12 +14,14 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
     {
         private readonly IRepository<Expense> repository;
         private readonly IExpenseRepository expenseRepository;
+        private readonly IFlatService flatService;
         private readonly IUnitOfWork unitOfWork;
 
-        public ExpenseService(IRepository<Expense> repository, IExpenseRepository expenseRepository, IUnitOfWork unitOfWork)
+        public ExpenseService(IRepository<Expense> repository, IExpenseRepository expenseRepository, IFlatService flatService, IUnitOfWork unitOfWork)
         {
             this.repository = repository;
             this.expenseRepository = expenseRepository;
+            this.flatService = flatService;
             this.unitOfWork = unitOfWork;
         }
 
@@ -87,5 +89,22 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
             return expenseDto;
         }
 
+        public void AddAllFlatsExpense(ExpenseCreateDto expenseCreateDto)
+        {
+            var flats = flatService.GetAll().Where(x => x.BuildingId == expenseCreateDto.BuildingId).ToList();
+            foreach (var item in flats)
+            {
+                var expense = new Expense()
+                {
+                    Price = expenseCreateDto.Price,
+                    IsPaid = expenseCreateDto.IsPaid,
+                    InvoiceDate = DateTime.Now,
+                    FlatId = item.Id,
+                    ExpenseTypeId = expenseCreateDto.ExpenseTypeId                    
+                };
+                repository.Add(expense);
+            }
+            unitOfWork.Commit();
+        }
     }
 }

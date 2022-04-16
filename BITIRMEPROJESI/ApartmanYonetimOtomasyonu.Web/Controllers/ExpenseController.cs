@@ -16,12 +16,14 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         private readonly IExpenseService expenseService;
         private readonly IExpenseTypeService expenseTypeService;
         private readonly IFlatService flatService;
+        private readonly IBuildingService buildingService;
 
-        public ExpenseController(IExpenseService expenseService, IExpenseTypeService expenseTypeService, IFlatService flatService)
+        public ExpenseController(IExpenseService expenseService, IExpenseTypeService expenseTypeService, IFlatService flatService, IBuildingService buildingService)
         {
             this.expenseService = expenseService;
             this.expenseTypeService = expenseTypeService;
             this.flatService = flatService;
+            this.buildingService = buildingService;
         }
 
         [HttpGet]
@@ -112,6 +114,34 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         {
             var expense = expenseService.GetById(id);
             expenseService.Delete(expense);
+            return RedirectToAction("Index");
+        }
+
+
+
+
+        [HttpGet]
+        public IActionResult AddAllFlatExpense() // Daire Ekleme
+        {
+            var expenseType = expenseTypeService.GetAll();
+            var flat = flatService.GetAll();            
+            var building = buildingService.GetAll();            
+            var expense = new ExpenseCreateDto
+            {
+                ExpenseType = expenseType,
+                Building = building,
+               // Flat = flat
+            };
+            return View(expense);
+        }
+        [HttpPost]
+        public IActionResult AddAllFlatExpense(ExpenseCreateDto expense) // Daire Ekleme
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(expense);
+            }
+            expenseService.AddAllFlatsExpense(expense);
             return RedirectToAction("Index");
         }
 

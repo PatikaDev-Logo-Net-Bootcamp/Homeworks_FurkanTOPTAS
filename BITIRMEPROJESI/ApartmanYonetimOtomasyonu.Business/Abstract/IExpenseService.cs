@@ -17,5 +17,6 @@ namespace ApartmanYonetimOtomasyonu.Business.Abstract
         void Delete(Expense expense);
 
         Task<List<ExpenseDto>> GetAllExpenseByRelations();        
+        void AddAllFlatsExpense(ExpenseCreateDto expenseCreateDto);        
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts
 {
-    public interface IFlatRepository
+    public interface IFlatRepository : IRepository<Flat>
     {
         Task<List<Flat>> GetAllFlatsByRelationsAsync();
     }

@@ -61,6 +61,7 @@ namespace ApartmanYonetimOtomasyonu.EntityFramework
             
             builder.ApplyConfiguration(new BuildingConfiguration());
             builder.ApplyConfiguration(new FlatConfiguration());
+            builder.ApplyConfiguration(new ExpenseConfiguration());
         }
     }
 }

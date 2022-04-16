@@ -16,8 +16,10 @@ namespace ApartmanYonetimOtomasyonu.Business.DTOs
         public int FlatId { get; set; }
         public int FlatNo { get; set; }
         public int ExpenseTypeId { get; set; }
+        public int BuildingId { get; set; }
 
         public IEnumerable<ExpenseType> ExpenseType { get; set; }
         public IEnumerable<Flat> Flat { get; set; }
+        public IEnumerable<Building> Building { get; set; }
     }
 }
