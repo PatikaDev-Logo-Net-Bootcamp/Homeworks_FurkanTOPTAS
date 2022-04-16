@@ -425,3 +425,4 @@ D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Expense\UpdateExpense.cshtml.g.cs
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\User\UpdateUser.cshtml.g.cs
+D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\User\AddUser.cshtml.g.cs

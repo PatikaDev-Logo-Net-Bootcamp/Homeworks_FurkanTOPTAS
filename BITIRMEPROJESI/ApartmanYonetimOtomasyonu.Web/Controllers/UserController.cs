@@ -38,6 +38,8 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                     FirstName = user.FirstName,
                     LastName = user.LastName,
                     PhoneNumber = user.PhoneNumber,
+                    TCNo = user.TCNo,
+                    CarLicensePlate = user.CarLicensePlate,
                     Roles = await GetUserRoles(user)
                 };
                 userRoleViewModel.Add(thisViewModel);
