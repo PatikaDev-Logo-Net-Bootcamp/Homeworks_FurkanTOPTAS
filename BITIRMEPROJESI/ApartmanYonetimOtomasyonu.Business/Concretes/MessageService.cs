@@ -22,27 +22,41 @@ namespace ApartmanYonetimOtomasyonu.Business.Concretes
 
         public void Add(Message message)
         {
-            throw new NotImplementedException();
+            repository.Add(message);
+            unitOfWork.Commit();
         }
 
         public void Delete(Message message)
         {
-            throw new NotImplementedException();
+            var exitMessage = repository.Get().FirstOrDefault(x => x.Id == message.Id);
+            if (exitMessage != null)
+            {
+                exitMessage.IsDeleted = true;
+                repository.Update(exitMessage);
+                unitOfWork.Commit();
+            }
         }
 
         public List<Message> GetAll()
         {
-            throw new NotImplementedException();
+            return repository.Get().ToList();
         }
 
         public Message GetById(int Id)
         {
-            throw new NotImplementedException();
+            return repository.Get().FirstOrDefault(x => x.Id == Id);
         }
 
         public void Update(Message message)
         {
-            throw new NotImplementedException();
+            var exitMessage = repository.Get().FirstOrDefault(x => x.Id == message.Id);
+            if (exitMessage != null)
+            {
+                exitMessage.MessageContent = !string.IsNullOrEmpty(message.MessageContent) ? message.MessageContent : exitMessage.MessageContent;
+               
+                repository.Update(exitMessage);
+                unitOfWork.Commit();
+            }
         }
     }
 }

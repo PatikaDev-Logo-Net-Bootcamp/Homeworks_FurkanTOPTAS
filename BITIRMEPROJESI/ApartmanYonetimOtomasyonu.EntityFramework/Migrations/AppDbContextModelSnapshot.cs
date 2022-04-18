@@ -146,13 +146,22 @@ namespace ApartmanYonetimOtomasyonu.EntityFramework.Migrations
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
+                    b.Property<bool>("IsRead")
+                        .HasColumnType("bit");
+
                     b.Property<string>("MessageContent")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ReceiverEmail")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ReceiverId")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("SenderEmail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("SenderId")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

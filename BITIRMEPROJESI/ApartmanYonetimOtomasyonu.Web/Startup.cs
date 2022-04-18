@@ -50,6 +50,7 @@ namespace ApartmanYonetimOtomasyonu.Web
             services.AddTransient<IFlatService, FlatService>();
             services.AddTransient<IExpenseTypeService, ExpenseTypeService>();
             services.AddTransient<IExpenseService, ExpenseService>();
+            services.AddTransient<IMessageService, MessageService>();
 
 
         }
