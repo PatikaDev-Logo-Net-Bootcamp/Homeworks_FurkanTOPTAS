@@ -18,12 +18,16 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Building" asp-action="Get">Building</a>
-                        </li>
+                        
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Building
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                  <a class="nav-link text-dark" asp-area="" asp-controller="Building" asp-action="Get">Building List</a>
+                                  <a class="nav-link text-dark" asp-area="" asp-controller="Building" asp-action="AddBuilding">Add Building</a>
+                            </div>
+                        </li>                             
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Flat" asp-action="Index">Flat</a>
                         </li>
@@ -33,9 +37,21 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="ExpenseType" asp-action="Index">ExpenseType</a>
                         </li>
-                         <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">User</a>
                         </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Message
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                  <a class="nav-link text-dark" asp-area="" asp-controller="Message" asp-action="OutBox">InBox</a>
+                                  <a class="nav-link text-dark" asp-area="" asp-controller="Message" asp-action="OutBox">OutBox</a>
+                                   <a class="nav-link text-dark" asp-area="" asp-controller="Message" asp-action="SendMessage">SendMessage</a>
+                                
+                            </div>
+                        </li>                       
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
