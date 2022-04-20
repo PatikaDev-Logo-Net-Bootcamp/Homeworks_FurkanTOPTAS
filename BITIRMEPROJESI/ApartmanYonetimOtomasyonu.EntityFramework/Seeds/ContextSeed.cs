@@ -33,7 +33,7 @@ namespace ApartmanYonetimOtomasyonu.EntityFramework.Seeds
                 if (user == null)
                 {
                     await userManager.CreateAsync(defaultUser, "123Pa$$word.");
-                    await userManager.AddToRoleAsync(defaultUser, Enums.Roles.BasicUser.ToString());
+                    //await userManager.AddToRoleAsync(defaultUser, Enums.Roles.BasicUser.ToString());
                     await userManager.AddToRoleAsync(defaultUser, Enums.Roles.Admin.ToString());
                 }
             }
