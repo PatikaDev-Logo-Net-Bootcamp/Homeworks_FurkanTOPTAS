@@ -4,6 +4,7 @@ using ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Abstracts;
 using ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.Concretes;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
 using ApartmanYonetimOtomasyonu.EntityFramework;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -41,7 +42,7 @@ namespace ApartmanYonetimOtomasyonu.Web
                 .AddEntityFrameworkStores<AppDbContext>()
                 .AddDefaultUI()
                 .AddDefaultTokenProviders();
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<Startup>());
             //**************************************************************************      
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             services.AddTransient(typeof(IRepository<>), typeof(Repository<>));

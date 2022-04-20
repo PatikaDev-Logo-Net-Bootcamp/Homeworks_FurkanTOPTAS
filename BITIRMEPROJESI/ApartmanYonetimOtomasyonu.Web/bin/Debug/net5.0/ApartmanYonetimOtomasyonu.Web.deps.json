@@ -34,6 +34,7 @@
       "ApartmanYonetimOtomasyonu.Web/1.0.0": {
         "dependencies": {
           "ApartmanYonetimOtomasyonu.Business": "1.0.0",
+          "FluentValidation.AspNetCore": "10.4.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.15",
           "Microsoft.AspNetCore.Identity.UI": "5.0.15",
           "Microsoft.EntityFrameworkCore": "5.0.15",

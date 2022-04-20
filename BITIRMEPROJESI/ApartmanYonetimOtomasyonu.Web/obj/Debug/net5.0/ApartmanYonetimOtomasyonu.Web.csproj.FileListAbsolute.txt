@@ -462,5 +462,4 @@ D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.API.dll
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\bin\Debug\net5.0\ApartmanYonetimOtomasyonu.API.pdb
-D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Expense\GetNonPaidExpense.cshtml.g.cs
 D:\Github Repos\Homeworks_FurkanTOPTAS\BITIRMEPROJESI\ApartmanYonetimOtomasyonu.Web\obj\Debug\net5.0\Razor\Views\Expense\PaymentCreate.cshtml.g.cs
