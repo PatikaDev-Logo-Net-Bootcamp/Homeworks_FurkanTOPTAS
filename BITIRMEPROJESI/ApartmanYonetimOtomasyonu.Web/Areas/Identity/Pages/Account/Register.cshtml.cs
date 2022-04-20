@@ -47,31 +47,24 @@ namespace ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account
 
         public class InputModel
         {
-            [Required]
-            [StringLength(20, ErrorMessage = "Max 20 characters")]
             [Display(Name = "First Name")]
             public string FirstName { get; set; }
-            [Required]
-            [StringLength(20, ErrorMessage = "Max 20 characters")]
+
             [Display(Name = "Last Name")]
             public string LastName { get; set; }
 
-            [Required]
-            [StringLength(11, ErrorMessage = "Max 11 characters")]
+
             [Display(Name = "TC No")]
             public string TCNo { get; set; }
-            [Required]
-            [StringLength(10, ErrorMessage = "Max 10 characters")]
+
             [Display(Name = "Car License Plate")]
             public string CarLicensePlate { get; set; }
 
-            [Required]
-            [StringLength(20, ErrorMessage = "Max 20 characters")]            
+         
             [Display(Name = "Type Of User")]
             public string TypeOfUser { get; set; }
             
-            [Required]
-            [StringLength(13, ErrorMessage = "Max 13 characters")]
+
             [Display(Name = "PhoneNumber")]
             public string PhoneNumber { get; set; }
 
@@ -119,10 +112,11 @@ namespace ApartmanYonetimOtomasyonu.Web.Areas.Identity.Pages.Account
                 var userName = Input.Email;
                 if (IsValidEmail(Input.Email))
                 {
-                    var user1 = await _userManager.FindByEmailAsync(Input.Email);
-                    if (user1 != null)
+                    MailAddress mail = new MailAddress(Input.Email);
+                    //var user1 = await _userManager.FindByEmailAsync(Input.Email);
+                    if (mail != null)
                     {
-                        userName = user1.UserName;
+                        userName = mail.User;
                     }
                 };
                 var user = new User { FirstName = Input.FirstName, LastName = Input.LastName, TCNo = Input.TCNo, 
