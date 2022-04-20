@@ -85,6 +85,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 IsPaid = expense.IsPaid,
                 Price = expense.Price,
             });
+            TempData["Message"] = "Ekleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -129,6 +130,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 IsPaid = expense.IsPaid,
                 Price = expense.Price,
             });
+            TempData["Message"] = "Güncelleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -137,6 +139,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         {
             var expense = expenseService.GetById(id);
             expenseService.Delete(expense);
+            TempData["Message"] = "Silme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -162,6 +165,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 return View(expense);
             }
             expenseService.AddAllFlatsExpense(expense);
+            TempData["Message"] = "Toplu Gider Ekleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
         
@@ -193,8 +197,8 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
             {
                 paidExpense.IsPaid = true;
                 expenseService.Update(paidExpense);
-                TempData.Add("message", response.Message);
-                
+                TempData["Message"] = "Ödeme Başarılı";
+
                 return RedirectToAction("Index");
             }
           //  TempData.Add("message", response.Message);

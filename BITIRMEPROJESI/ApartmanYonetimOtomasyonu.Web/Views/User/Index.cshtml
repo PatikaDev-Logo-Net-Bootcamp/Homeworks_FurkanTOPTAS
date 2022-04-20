@@ -5,6 +5,12 @@
 
 }
 
+@if (@TempData["Message"] != null){
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
 <div class="container mb-5 mt-5">
     <h3>Yeni Kullanıcı Ekle</h3>
     <a class="btn btn-success btn-sm" asp-controller="User" asp-action="AddUser">

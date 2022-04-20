@@ -1,8 +1,14 @@
 ﻿@using ApartmanYonetimOtomasyonu.Domain.Entities
 @model List<ExpenseType>
 
+
+@if (@TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
 <div class="container mb-5 mt-5">
-    <h3>Yeni Gider Tipi Ekle</h3>
     <a class="btn btn-success btn-sm" asp-controller="ExpenseType" asp-action="AddExpenseType">
         Gider Tipi Ekle
     </a>
@@ -10,32 +16,32 @@
 
 <table id="datatable" style="width:100%" class="table table-hover table-striped">
     <thead class="thead-info">
-    <tr>
-        <th scope="col">Id</th>
-        <th scope="col">Gider Tipi</th>
-        <th></th>
-        <th></th>
-    </tr>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Gider Tipi</th>
+            <th></th>
+            <th></th>
+        </tr>
     </thead>
     <tbody>
-    @foreach (var expense in Model)
-    {
-        <tr>
-            <td>@expense.Id</td>
-            <td>@expense.ExpenseTypeName</td>
-            <td>
-                <a class="btn btn-primary btn-sm" asp-controller="ExpenseType" asp-action="UpdateExpenseType" 
+        @foreach (var expense in Model)
+        {
+            <tr>
+                <td>@expense.Id</td>
+                <td>@expense.ExpenseTypeName</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-controller="ExpenseType" asp-action="UpdateExpenseType"
                    asp-route-id="@expense.Id">
-                    Güncelle
-                </a>
-            </td>
-            <td>
-                <a class="btn btn-danger btn-sm" asp-controller="ExpenseType" asp-action="DeleteExpenseType" 
+                        Güncelle
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-danger btn-sm" asp-controller="ExpenseType" asp-action="DeleteExpenseType"
                    asp-route-id="@expense.Id">
-                    Sil
-                </a>
-            </td>
-        </tr>
-    }
+                        Sil
+                    </a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

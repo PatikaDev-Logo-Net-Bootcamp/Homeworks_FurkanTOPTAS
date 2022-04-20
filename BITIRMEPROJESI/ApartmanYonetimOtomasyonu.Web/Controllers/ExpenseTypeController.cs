@@ -39,6 +39,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 ExpenseTypeName = expenseType.ExpenseTypeName.ToUpper(),
                 
             });
+            TempData["Message"] = "Ekleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -47,6 +48,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         {
             var expenseType = expenseTypeService.GetById(id);
             expenseTypeService.Delete(expenseType);
+            TempData["Message"] = "Silme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -69,6 +71,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 return View(expenseType);
             }
             expenseTypeService.Update(expenseType);
+            TempData["Message"] = "Güncelleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
     }

@@ -2,12 +2,11 @@
     ViewData["Title"] = "Home Page";
 }
 @if(User.IsInRole("Admin")) {
-<h1>Hello Admin, Welcome</h1>
+<h3>Merhaba Admin, Hoşgeldiniz</h3>
 }
 @if(User.IsInRole("BasicUser")) {
-<h1>Hello User, Welcome</h1>
+<h3>Merhaba Kullanıcı, Hoşgeldiniz</h3>
 }
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <img class="img-fluid" src="https://www.pngplay.com/wp-content/uploads/7/Building-Vector-PNG-Clipart-Background.png"/>
 </div>

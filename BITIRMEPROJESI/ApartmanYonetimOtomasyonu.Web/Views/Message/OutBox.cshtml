@@ -1,6 +1,12 @@
 ﻿@using ApartmanYonetimOtomasyonu.Domain.Entities
 @model List<Message>
 
+@if (@TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
 <table id="datatable" style="width:100%" class="table table-hover table-striped">
     <thead>
         <tr>

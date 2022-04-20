@@ -3,10 +3,15 @@
 @{
     ViewBag.Title = "Gider Listesi";
 }
+
+@if (@TempData["Message"] != null){
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
 @if (User.IsInRole("Admin"))
 {
     <div class="container mb-5 mt-5">
-        <h3>Yeni Gider Ekle</h3>
         <a class="btn btn-success btn-sm" asp-controller="Expense" asp-action="AddExpense">
             Gider Ekle
         </a>

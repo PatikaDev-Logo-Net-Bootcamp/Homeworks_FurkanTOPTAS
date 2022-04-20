@@ -60,6 +60,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 RoomSize = flat.RoomSize,
                 SaloonSize = flat.SaloonSize,
             });
+            TempData["Message"] = "Daire Ekleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -107,6 +108,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 RoomSize = flat.RoomSize,
                 SaloonSize = flat.SaloonSize,
             });
+            TempData["Message"] = "Daire Güncelleme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 
@@ -115,6 +117,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         {
             var flat = flatService.GetById(id);
             flatService.Delete(flat);
+            TempData["Message"] = "Silme İşlemi Başarılı";
             return RedirectToAction("Index");
         }
 

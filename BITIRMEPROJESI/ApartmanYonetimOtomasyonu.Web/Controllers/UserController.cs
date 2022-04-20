@@ -97,7 +97,8 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
             var result= await userManager.UpdateAsync(userUpdate);
             if (result.Succeeded)
             {
-              return RedirectToAction("Index");
+                TempData["Message"] = "Güncelleme İşlemi Başarılı";
+                return RedirectToAction("Index");
             }
             return View();
         }
@@ -141,6 +142,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
             if (result.Succeeded)
             {
                 await userManager.AddToRoleAsync(userAdd, EntityFramework.Enums.Roles.BasicUser.ToString());
+                TempData["Message"] = "Ekleme İşlemi Başarılı";
                 return RedirectToAction("Index");
             }
             return View();

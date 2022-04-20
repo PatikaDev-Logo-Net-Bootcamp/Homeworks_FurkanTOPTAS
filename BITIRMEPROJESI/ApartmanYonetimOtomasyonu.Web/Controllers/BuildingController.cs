@@ -41,6 +41,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 TotalFloor = building.TotalFloor,
                 TotalFlat = building.TotalFlat,
             });
+            TempData["Message"] = "Ekleme İşlemi Başarılı";
             return RedirectToAction("Get");  
         }
 
@@ -49,6 +50,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
         {
             var building = buildingService.GetById(id);
             buildingService.Delete(building);
+            TempData["Message"] = "Silme İşlemi Başarılı";
             return RedirectToAction("Get");
         }
 
@@ -71,6 +73,7 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 return View(building);
             }
             buildingService.Update(building);
+            TempData["Message"] = "Güncelleme İşlemi Başarılı";
             return RedirectToAction("Get");
         }
 

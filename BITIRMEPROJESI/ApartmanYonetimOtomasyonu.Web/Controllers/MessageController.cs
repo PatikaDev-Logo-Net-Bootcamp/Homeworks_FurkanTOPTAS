@@ -51,7 +51,8 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
                 message.ReceiverEmail = message.ReceiverEmail;
                 
                 messageService.Add(message);
-                return RedirectToAction("InBox");
+                TempData["Message"] = "Mesajınız Başarı Bir Şekilde Gönderildi";
+                return RedirectToAction("OutBox");
             }
            
 

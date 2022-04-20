@@ -1,9 +1,13 @@
 ﻿@using ApartmanYonetimOtomasyonu.Domain.Entities
 @model List<Building>
 
-    
-<div class="container mb-5 mt-5">
-    <h3>Yeni Blok Ekle</h3>
+@if (@TempData["Message"] != null)
+{
+        <div class="alert alert-success">
+        @TempData["Message"]
+        </div>
+}
+<div class="container mb-5 mt-5">   
     <a class="btn btn-success btn-sm" asp-controller="Building" asp-action="AddBuilding">
         Blok Ekle
     </a>
@@ -21,27 +25,27 @@
     </tr>
     </thead>
     <tbody>
-    @foreach (var building in Model)
-    {
-        <tr>
-            <td>@building.Id</td>
-            <td>@building.BuildingName</td>
-            <td>@building.TotalFloor</td>
-            <td>@building.TotalFlat</td>
-            <td>
-                <a class="btn btn-primary btn-sm" asp-controller="Building" asp-action="UpdateBuilding" 
+        @foreach (var building in Model)
+        {
+            <tr>
+                <td>@building.Id</td>
+                <td>@building.BuildingName</td>
+                <td>@building.TotalFloor</td>
+                <td>@building.TotalFlat</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-controller="Building" asp-action="UpdateBuilding" 
                    asp-route-id="@building.Id">
-                    Güncelle
-                </a>
-            </td>
-            <td>
-                <a class="btn btn-danger btn-sm" asp-controller="Building" asp-action="DeleteBuilding" 
+                        Güncelle
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-danger btn-sm" asp-controller="Building" asp-action="DeleteBuilding" 
                    asp-route-id="@building.Id">
-                    Sil
-                </a>
-            </td>
-        </tr>
-    }
+                        Sil
+                    </a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
 
