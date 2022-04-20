@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Web", "ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Web.csproj", "{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.Web", "ApartmanYonetimOtomasyonu.Web\ApartmanYonetimOtomasyonu.Web.csproj", "{AB3BD55C-A9CE-4DE5-914B-9C108D5A54FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Domain", "ApartmanYonetimOtomasyonu.Domain\ApartmanYonetimOtomasyonu.Domain.csproj", "{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.Domain", "ApartmanYonetimOtomasyonu.Domain\ApartmanYonetimOtomasyonu.Domain.csproj", "{437ED4DD-6CE6-4BB9-AB15-0C9D83118FD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository", "ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository\ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.csproj", "{749C1873-4E69-4A54-A195-AA89304416E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository", "ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository\ApartmanYonetimOtomasyonu.DataAccess.EntityFramework.Repository.csproj", "{749C1873-4E69-4A54-A195-AA89304416E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.EntityFramework", "ApartmanYonetimOtomasyonu.EntityFramework\ApartmanYonetimOtomasyonu.EntityFramework.csproj", "{4CB0F2CB-5347-4B78-863C-17948FA36C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.EntityFramework", "ApartmanYonetimOtomasyonu.EntityFramework\ApartmanYonetimOtomasyonu.EntityFramework.csproj", "{4CB0F2CB-5347-4B78-863C-17948FA36C50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Business", "ApartmanYonetimOtomasyonu.Business\ApartmanYonetimOtomasyonu.Business.csproj", "{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.Business", "ApartmanYonetimOtomasyonu.Business\ApartmanYonetimOtomasyonu.Business.csproj", "{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.API", "ApartmanYonetimOtomasyonu.API\ApartmanYonetimOtomasyonu.API.csproj", "{70E0685F-A265-4524-B875-3BBC55D97AFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
