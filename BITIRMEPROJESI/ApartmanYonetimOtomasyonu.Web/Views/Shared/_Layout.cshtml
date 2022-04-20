@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using ApartmanYonetimOtomasyonu.Domain.Entities
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -6,69 +10,93 @@
     <title>@ViewData["Title"] - ApartmanYonetimOtomasyonu.Web</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
-</head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ApartmanYonetimOtomasyonu.Web</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Building
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                  <a class="nav-link text-dark" asp-area="" asp-controller="Building" asp-action="Get">Building List</a>
-                                  <a class="nav-link text-dark" asp-area="" asp-controller="Building" asp-action="AddBuilding">Add Building</a>
-                            </div>
-                        </li>                             
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Flat" asp-action="Index">Flat</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Expense" asp-action="Index">Expense</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="ExpenseType" asp-action="Index">ExpenseType</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Index">User</a>
-                        </li>
+    <link rel="stylesheet" href="~/css/nucleo-icons.css" />
+    <link rel="stylesheet" href="~/css/nucleo-svg.css" />
+    <link rel="stylesheet" href="~/css/material-dashboard.css?v=3.0.2" />
+    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
 
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Message
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                  <a class="nav-link text-dark" asp-area="" asp-controller="Message" asp-action="OutBox">InBox</a>
-                                  <a class="nav-link text-dark" asp-area="" asp-controller="Message" asp-action="OutBox">OutBox</a>
-                                   <a class="nav-link text-dark" asp-area="" asp-controller="Message" asp-action="SendMessage">SendMessage</a>
-                                
-                            </div>
-                        </li>                       
+</head>
+<body class="g-sidenav-show bg-gray-200 dark-version">
+   @if (SignInManager.IsSignedIn(User))
+    {
+        <aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-3 fixed-start ms-3   bg-gradient-dark" id="sidenav-main">
+            <div class="sidenav-header">
+                <i class="fas fa-times p-3 cursor-pointer text-white opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
+                <a class="navbar-brand m-0" href="/" target="_blank">
+                    <span class="ms-1 font-weight-bold text-white" style="height:100vh!important;">Apartman Yönetim <br /> Otomasyonu</span>
+                </a>
+            </div>
+            <hr class="horizontal light mt-0 mb-2">
+            <div class="collapse navbar-collapse  w-auto " style="height:100vh!important;" id="sidenav-collapse-main">
+                <ul class="navbar-nav" style="height:100%!important;">
+                    @if (User.IsInRole("Admin"))
+                    { 
+                    <li class="nav-item dropdown">
+                    <a class="nav-link text-white active bg-gradient-info  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Apartman
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="nav-link text-white active bg-gradient-info" asp-area="" asp-controller="Building" asp-action="Get">Apartman Listele</a>
+                        <a class="nav-link text-white active bg-gradient-info" asp-area="" asp-controller="Building" asp-action="AddBuilding">Apartman Ekle</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white active bg-gradient-info" asp-area="" asp-controller="Flat" asp-action="Index">Daire</a>
+                </li>
+                }
+                <li class="nav-item">
+                    <a class="nav-link text-white active bg-gradient-info " asp-area="" asp-controller="Expense" asp-action="Index">Giderler</a>
+                </li>
+                @if (User.IsInRole("Admin"))
+                    {
+                <li class="nav-item">
+                    <a class="nav-link text-white active bg-gradient-info " asp-area="" asp-controller="ExpenseType" asp-action="Index">Gider Tipi</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white active bg-gradient-info " asp-area="" asp-controller="User" asp-action="Index">Kullanıcılar</a>
+                </li>
+                    }
+                <li class="nav-item dropdown">
+                    <a class="nav-link text-white active bg-gradient-info  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Mesaj
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="nav-link text-white active bg-gradient-info " asp-area="" asp-controller="Message" asp-action="InBox">Gelen Kutusu</a>
+                        <a class="nav-link text-white active bg-gradient-info " asp-area="" asp-controller="Message" asp-action="OutBox">Gönderilenler</a>
+                        <a class="nav-link text-white active bg-gradient-info " asp-area="" asp-controller="Message" asp-action="SendMessage">Mesaj Gönder</a>
+
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </aside>
+    }
+    <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg pt-2">
+        <nav class="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl" id="navbarBlur" navbar-scroll="true">
+            <div class="container-fluid py-1 px-3">
+                <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">                    
+                    <ul class="navbar-nav  justify-content-end">
+                         <partial name="_LoginPartial" />                      
                     </ul>
-                    <partial name="_LoginPartial" />
                 </div>
             </div>
         </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+        <div class="container-fluid py-4">
+            @*<main role="main" class="pb-3">*@
             @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - ApartmanYonetimOtomasyonu.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            @* </main>*@
         </div>
-    </footer>
+
+    </main>
+
+
+
+
+    
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
