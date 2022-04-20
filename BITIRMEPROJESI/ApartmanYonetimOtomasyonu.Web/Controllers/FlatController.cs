@@ -12,8 +12,6 @@ namespace ApartmanYonetimOtomasyonu.Web.Controllers
     [Authorize]
     public class FlatController : Controller
     {
-        //[AuthorizeByRole(Roles="Admin")]
-
         private readonly IFlatService flatService;
         private readonly UserManager<User> userManager;
         private readonly IBuildingService buildingService;
