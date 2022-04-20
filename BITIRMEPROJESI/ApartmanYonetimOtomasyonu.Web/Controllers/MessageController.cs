@@ -1,5 +1,6 @@
 ﻿using ApartmanYonetimOtomasyonu.Business.Abstract;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
@@ -7,6 +8,7 @@ using System.Net.Mail;
 
 namespace ApartmanYonetimOtomasyonu.Web.Controllers
 {
+    [Authorize]
     public class MessageController : Controller
     {
         private readonly IMessageService messageService;

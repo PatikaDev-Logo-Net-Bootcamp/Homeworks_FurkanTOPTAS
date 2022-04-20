@@ -1,9 +1,11 @@
 ﻿using ApartmanYonetimOtomasyonu.Business.Abstract;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApartmanYonetimOtomasyonu.Web.Controllers
 {
+    [Authorize]
     public class ExpenseTypeController : Controller
     {
         private readonly IExpenseTypeService expenseTypeService;

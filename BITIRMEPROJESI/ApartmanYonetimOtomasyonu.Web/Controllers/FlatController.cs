@@ -1,6 +1,7 @@
 ﻿using ApartmanYonetimOtomasyonu.Business.Abstract;
 using ApartmanYonetimOtomasyonu.Business.DTOs;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.Web.Controllers
 {
+    [Authorize]
     public class FlatController : Controller
     {
         //[AuthorizeByRole(Roles="Admin")]

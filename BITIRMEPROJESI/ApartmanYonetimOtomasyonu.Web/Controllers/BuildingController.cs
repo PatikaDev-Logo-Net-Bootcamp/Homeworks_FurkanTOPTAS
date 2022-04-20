@@ -1,11 +1,12 @@
 ﻿using ApartmanYonetimOtomasyonu.Business.Abstract;
 using ApartmanYonetimOtomasyonu.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace ApartmanYonetimOtomasyonu.Web.Controllers
 {
-    //[AuthorizeByRole(Roles = "Admin")]
+    [Authorize]
     public class BuildingController : Controller
     {
         private readonly IBuildingService buildingService;
