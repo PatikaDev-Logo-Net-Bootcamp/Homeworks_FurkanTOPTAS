@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.Business", "ApartmanYonetimOtomasyonu.Business\ApartmanYonetimOtomasyonu.Business.csproj", "{2EA444D0-6683-4A7B-BA8E-C5636D1FB213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.API", "ApartmanYonetimOtomasyonu.API\ApartmanYonetimOtomasyonu.API.csproj", "{70E0685F-A265-4524-B875-3BBC55D97AFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApartmanYonetimOtomasyonu.API", "ApartmanYonetimOtomasyonu.API\ApartmanYonetimOtomasyonu.API.csproj", "{70E0685F-A265-4524-B875-3BBC55D97AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmanYonetimOtomasyonu.Test", "ApartmanYonetimOtomasyonu.Test\ApartmanYonetimOtomasyonu.Test.csproj", "{04868663-26A6-4B20-8866-B96E4DEFFFCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70E0685F-A265-4524-B875-3BBC55D97AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04868663-26A6-4B20-8866-B96E4DEFFFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04868663-26A6-4B20-8866-B96E4DEFFFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04868663-26A6-4B20-8866-B96E4DEFFFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04868663-26A6-4B20-8866-B96E4DEFFFCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
