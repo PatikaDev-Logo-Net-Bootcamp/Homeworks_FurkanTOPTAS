@@ -54,8 +54,12 @@ Kurulum için öncelikli olarak;
 * Package Nuget Console Ekranında `update-database` komutunu çalıştırmalısınız.
 * API ve Web projelerini multiple olarak çalıştırmanız gerekmektedir.
 
+
 ## ☕   Çalıştır 
 Bu projeyi geliştirirken fazlaca kahve içtim. Sizlerde çalıştırırken bir keyif kahvesi eşliğinde uygulamayı çalıştırabilirsiniz. 
+
+* Super Admin Email: `superadmin@gmail.com`
+* Super Admin Password: `123Pa$$word.`
 
 
 ## 📫 İletişim 
