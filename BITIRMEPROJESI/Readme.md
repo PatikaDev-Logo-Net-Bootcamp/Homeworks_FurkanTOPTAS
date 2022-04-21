@@ -26,18 +26,18 @@ Proje içerisinde yer alan özellikler;
 | ![](https://camo.githubusercontent.com/c78258a250a9f24949bfd1bbf22418bb8863a618d6dfae4c634d62e259232852/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456e746974794672616d65776f726b2d3543324439313f7374796c653d666c6174266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465)      	| ![](https://camo.githubusercontent.com/0a8c6ffd2805c602ea7ed59d2dd6e0e7211430782358acd807171aeefe64bed5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75656e7456616c69646174696f6e2d4343323932373f7374796c653d666c61742d737175617265266c6f676f3d2e6e6574266c6f676f436f6c6f723d666666666666) 	| ![](https://camo.githubusercontent.com/b73712c09c3ebfa1ec32b7e8c3cdab675b92a48bbcae95360b72ef625d69cace/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4153502e4e45542d3543324439313f7374796c653d666c6174266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465)|
 | ![](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)   	| ![](https://camo.githubusercontent.com/154b109392c658875e8ae5fd94e79ab62f82341149424efc8eb0c1e59821725a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f53514c5f5365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465)            	| ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)             	|
 ## 😄 Ekran Görüntüleri
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMelogin.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeuserIndex.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMebuildingList.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMebuildingAdd.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeflatList.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeexpenseList.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeexpenseTypeList.png)
-![]https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMereceiveredMessageList.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeuserList.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeuser-UserExpenseList.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeuser-userInboxMessage.png)
-![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMeuser-payment.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/blob/main/BITIRMEPROJESI/imagesForReadMe/login.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/userIndex.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/buildingList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/buildingAdd.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/flatList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/expenseList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/expenseTypeList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/receiveredMessageList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/userList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/user-UserExpenseList.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/user-userInboxMessage.png)
+![](https://github.com/PatikaDev-Logo-Net-Bootcamp/Homeworks_FurkanTOPTAS/tree/main/BITIRMEPROJESI/imagesForReadMe/user-payment.png)
 
 
 ## 💻  Proje Gereksinimleri
